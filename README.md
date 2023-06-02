@@ -1,0 +1,1 @@
+# tratamento_api_publica
